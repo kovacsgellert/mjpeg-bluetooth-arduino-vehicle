@@ -1,0 +1,10 @@
+E:\Dropbox\Informatika\C#\Projects\MJPEG bluetooth tank\MJPEG bluetooth tank\bin\Release\MJPEG_bluetooth_tank.exe.config
+E:\Dropbox\Informatika\C#\Projects\MJPEG bluetooth tank\MJPEG bluetooth tank\bin\Release\MJPEG_bluetooth_tank.exe
+E:\Dropbox\Informatika\C#\Projects\MJPEG bluetooth tank\MJPEG bluetooth tank\bin\Release\MJPEG_bluetooth_tank.pdb
+E:\Dropbox\Informatika\C#\Projects\MJPEG bluetooth tank\MJPEG bluetooth tank\bin\Release\MjpegProcessor.dll
+E:\Dropbox\Informatika\C#\Projects\MJPEG bluetooth tank\MJPEG bluetooth tank\obj\Release\MJPEG_bluetooth_tank.Form1.resources
+E:\Dropbox\Informatika\C#\Projects\MJPEG bluetooth tank\MJPEG bluetooth tank\obj\Release\MJPEG_bluetooth_tank.Form2.resources
+E:\Dropbox\Informatika\C#\Projects\MJPEG bluetooth tank\MJPEG bluetooth tank\obj\Release\MJPEG_bluetooth_tank.Properties.Resources.resources
+E:\Dropbox\Informatika\C#\Projects\MJPEG bluetooth tank\MJPEG bluetooth tank\obj\Release\MJPEG bluetooth tank.csproj.GenerateResource.Cache
+E:\Dropbox\Informatika\C#\Projects\MJPEG bluetooth tank\MJPEG bluetooth tank\obj\Release\MJPEG_bluetooth_tank.exe
+E:\Dropbox\Informatika\C#\Projects\MJPEG bluetooth tank\MJPEG bluetooth tank\obj\Release\MJPEG_bluetooth_tank.pdb

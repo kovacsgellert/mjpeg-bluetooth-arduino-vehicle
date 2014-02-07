@@ -1,13 +1,8 @@
-E:\Dropbox\Informatika\C#\Projects\MJPEG bluetooth tank\MJPEG bluetooth tank\bin\Debug\MJPEG bluetooth tank.exe.config
-E:\Dropbox\Informatika\C#\Projects\MJPEG bluetooth tank\MJPEG bluetooth tank\bin\Debug\MJPEG bluetooth tank.exe
-E:\Dropbox\Informatika\C#\Projects\MJPEG bluetooth tank\MJPEG bluetooth tank\bin\Debug\MJPEG bluetooth tank.pdb
 E:\Dropbox\Informatika\C#\Projects\MJPEG bluetooth tank\MJPEG bluetooth tank\bin\Debug\MjpegProcessor.dll
 E:\Dropbox\Informatika\C#\Projects\MJPEG bluetooth tank\MJPEG bluetooth tank\obj\Debug\MJPEG bluetooth tank.csprojResolveAssemblyReference.cache
 E:\Dropbox\Informatika\C#\Projects\MJPEG bluetooth tank\MJPEG bluetooth tank\obj\Debug\MJPEG_bluetooth_tank.Form1.resources
 E:\Dropbox\Informatika\C#\Projects\MJPEG bluetooth tank\MJPEG bluetooth tank\obj\Debug\MJPEG_bluetooth_tank.Properties.Resources.resources
 E:\Dropbox\Informatika\C#\Projects\MJPEG bluetooth tank\MJPEG bluetooth tank\obj\Debug\MJPEG bluetooth tank.csproj.GenerateResource.Cache
-E:\Dropbox\Informatika\C#\Projects\MJPEG bluetooth tank\MJPEG bluetooth tank\obj\Debug\MJPEG bluetooth tank.exe
-E:\Dropbox\Informatika\C#\Projects\MJPEG bluetooth tank\MJPEG bluetooth tank\obj\Debug\MJPEG bluetooth tank.pdb
 D:\Dropbox\Informatika\C#\Projects\MJPEG bluetooth tank\MJPEG bluetooth tank\bin\Debug\MJPEG bluetooth tank.exe.config
 D:\Dropbox\Informatika\C#\Projects\MJPEG bluetooth tank\MJPEG bluetooth tank\obj\Debug\MJPEG bluetooth tank.exe
 D:\Dropbox\Informatika\C#\Projects\MJPEG bluetooth tank\MJPEG bluetooth tank\obj\Debug\MJPEG bluetooth tank.pdb
@@ -21,3 +16,8 @@ D:\Dropbox\Informatika\C#\Projects\MJPEG bluetooth tank\MJPEG bluetooth tank\obj
 E:\Dropbox\Informatika\C#\Projects\MJPEG bluetooth tank\MJPEG bluetooth tank\obj\Debug\MJPEG_bluetooth_tank.Form2.resources
 D:\Dropbox\Informatika\C#\Projects\MJPEG bluetooth tank\MJPEG bluetooth tank\obj\Debug\MJPEG_bluetooth_tank.Form2.resources
 D:\Dropbox\Informatika\C#\Projects\MJPEG bluetooth tank\MJPEG bluetooth tank\bin\Debug\MJPEG_bluetooth_tank.exe.config
+E:\Dropbox\Informatika\C#\Projects\MJPEG bluetooth tank\MJPEG bluetooth tank\bin\Debug\MJPEG_bluetooth_tank.exe.config
+E:\Dropbox\Informatika\C#\Projects\MJPEG bluetooth tank\MJPEG bluetooth tank\bin\Debug\MJPEG_bluetooth_tank.exe
+E:\Dropbox\Informatika\C#\Projects\MJPEG bluetooth tank\MJPEG bluetooth tank\bin\Debug\MJPEG_bluetooth_tank.pdb
+E:\Dropbox\Informatika\C#\Projects\MJPEG bluetooth tank\MJPEG bluetooth tank\obj\Debug\MJPEG_bluetooth_tank.exe
+E:\Dropbox\Informatika\C#\Projects\MJPEG bluetooth tank\MJPEG bluetooth tank\obj\Debug\MJPEG_bluetooth_tank.pdb
