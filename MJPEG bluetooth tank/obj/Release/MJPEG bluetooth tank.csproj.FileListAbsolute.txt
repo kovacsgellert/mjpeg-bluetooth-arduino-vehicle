@@ -8,3 +8,4 @@ E:\Dropbox\Informatika\C#\Projects\MJPEG bluetooth tank\MJPEG bluetooth tank\obj
 E:\Dropbox\Informatika\C#\Projects\MJPEG bluetooth tank\MJPEG bluetooth tank\obj\Release\MJPEG bluetooth tank.csproj.GenerateResource.Cache
 E:\Dropbox\Informatika\C#\Projects\MJPEG bluetooth tank\MJPEG bluetooth tank\obj\Release\MJPEG_bluetooth_tank.exe
 E:\Dropbox\Informatika\C#\Projects\MJPEG bluetooth tank\MJPEG bluetooth tank\obj\Release\MJPEG_bluetooth_tank.pdb
+E:\Dropbox\Informatika\C#\Projects\MJPEG bluetooth tank\MJPEG bluetooth tank\obj\Release\MJPEG bluetooth tank.csprojResolveAssemblyReference.cache
