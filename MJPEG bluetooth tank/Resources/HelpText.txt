@@ -1,6 +1,9 @@
 MJPEG RC TANK
 
-This program is able to control a vehicle through Bluetooth Serial communication. Hover your mouse over any item in the main window to access more information about them. Arduino companion project is available at (... ide majd béjön valami weboldalféle ...).
+This program is able to control a vehicle through Bluetooth Serial communication. Hover your mouse over any item in the main window to access more information about them. 
+
+Source code of the project and Arduino code are available under the Apache License Version 2.0 at the following link:
+https://code.google.com/p/mjpeg-bluetooth-arduino-vehicle/
 
 How to get started:
 1. Start communication with vehicle.
