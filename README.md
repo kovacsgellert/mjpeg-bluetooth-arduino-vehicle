@@ -13,6 +13,7 @@ This project uses the excellent MJPEG decoder library: http://mjpeg.codeplex.com
 # Arduino Project #
 
 Arduino comapnion project source code can be found in the Wiki.
+https://github.com/kovacsgellert/mjpeg-bluetooth-arduino-vehicle/blob/wiki/ArduinoCompanionProject.md
 
 # Video demonstration #
 
