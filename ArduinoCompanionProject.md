@@ -17,9 +17,8 @@ Created by: Kovács Gellért Pál
 License: Apache V2 http://www.apache.org/licenses/LICENSE-2.0.html
 
 This program drives a vehicle, getting the data 
-through a serial port and interpriting it.
+through a serial port and interpreting it.
 
-C# control application available at: https://code.google.com/p/mjpeg-bluetooth-arduino-vehicle/
 */
 
 #define LEFT1 5    //left motor FORWARD pin
